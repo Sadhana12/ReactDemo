@@ -1,0 +1,57 @@
+{
+"cartId": 1,
+"shopperName": "John Smith",
+"shopperEmail": "johnsmith@example.com",
+"taxPercentage": 8.25,
+"products": [
+  {
+    "productID":1,
+    "productName": "Parsley",
+    "quantity": 1,
+    "price": 1.25
+  },  {
+    "productID":1,
+    "productName": "Apple",
+    "quantity": 1,
+    "price": 1.25
+  },
+  {
+    "productID":1,
+    "productName": "Mango",
+    "quantity": 1,
+    "price": 1.25
+  },
+  {
+    "productID":1,
+    "productName": "Chicken",
+    "quantity": 1,
+    "price": 1.25
+  },
+  {  
+    "productID":1,
+    "productName": "Beef",
+    "quantity": 1,
+    "price": 1.25
+  },
+{
+    "productID":1,
+    "productName": "Carrot",
+    "quantity": 1,
+    "price": 1.25
+  },
+  {
+    "productID":1,
+    "productName": "Onion",
+    "quantity": 1,
+    "price": 1.25
+  },
+
+  {
+    "productID":1,
+    "productName": "Potatoes",
+    "quantity": 1,
+    "price": 1.25
+  }
+]
+}
+
